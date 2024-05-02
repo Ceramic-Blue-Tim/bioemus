@@ -1,0 +1,4 @@
+# *.bit
+*.bin
+# *.dtsi
+*.dtbo

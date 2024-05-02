@@ -1,0 +1,34 @@
+# Softwares cache
+.vscode/
+__pycache__/
+build/
+
+# fpga - vivado logs
+*.jou
+*.log
+
+# fpga - sigasi
+*.library_mapping.xml
+*.project
+*.project
+.settings/
+
+
+# cpp - object files
+*.o
+
+# data
+*.dat
+
+# matlab - data & figures
+*.fig
+*.mat
+
+# docs - latex
+*.aux
+*.log
+*.synctex.gz
+*.tex.bak
+
+# Petalinux projects
+sw/target/linux/

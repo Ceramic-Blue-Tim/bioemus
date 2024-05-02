@@ -1,0 +1,10 @@
+numpy
+matplotlib
+pyqtgraph
+pyqt5
+jsbeautifier
+zmq
+ipykernel
+fxpmath
+tqdm
+pandas
