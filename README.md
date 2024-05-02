@@ -4,7 +4,7 @@
 
 BiœmuS is a biomimetic real-time Spiking Neural Network (SNN) emulating single compartment Hodgkin & Huxley neurons running on SoC FPGA (AMD Zynq UltraScale+ MPSoC).
 
-_Maintainers_: Timothée Lévi
+_Maintainers_: Timothée Lévi (timothee.levi@u-bordeaux.fr)
 
 _Authors_: Romain Beaubois (beaubois@iis.u-tokyo.ac.jp), Jérémy Cheslet (jeremy.cheslet@u-bordeaux.fr)
 
