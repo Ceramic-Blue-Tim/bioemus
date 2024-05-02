@@ -28,10 +28,6 @@ _Authors_: Romain Beaubois (beaubois@iis.u-tokyo.ac.jp), Jérémy Cheslet (jerem
 ## Repository structure
 
 * **docs** : documentation, figures and changelogs
-* **hw** : hardware sources
-  * **data**: data for simulations
-  * **hls**: HLS synthesis sources and projects
-  * **vivado**: Vivado sources, scripts and projects
 * **sw** : software sources
   * **host**: configuration, emulation and monitoring scripts
   * **target**: C++ application, firmware, drivers and scripts for target
@@ -65,6 +61,6 @@ This project is licensed under GPLv3.
 
 Romain Beaubois, Jérémy Cheslet, Tomoya Duenki, Farad Khoyratee, Pascal Branchereau, Yoshiho Ikeuchi, Timothée Lévi
 
-bioRxiv 2023.09.05.556241
+Nature Communications 2023.09.05.556241
 
 doi: https://doi.org/10.1101/2023.09.05.556241
