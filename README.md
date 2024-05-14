@@ -61,6 +61,6 @@ This project is licensed under GPLv3.
 
 Romain Beaubois, Jérémy Cheslet, Tomoya Duenki, Farad Khoyratee, Pascal Branchereau, Yoshiho Ikeuchi, Timothée Lévi
 
-Nature Communications 2023.09.05.556241
+bioRxiv 2023.09.05.556241
 
 doi: https://doi.org/10.1101/2023.09.05.556241
