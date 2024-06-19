@@ -170,7 +170,8 @@ This procedure "installs" Bioemus on the board by building the different require
 
 * Copy ```sw/target/kria``` on the board at ```~/``` or ```/home/ubuntu``` (i.e. using SFTP with MobaXterm, USB drive, ...) or clone from github.
 ```
-git clone https://github.com/Ceramic-Blue-Tim/bioemus.git
+git clone https://github.com/Ceramic-Blue-Tim/bioemus.git gitbioemus
+cp -r gitbioemus/sw/target/kria bioemus
 ```
 * Rename folder to ```bioemus```
 ```Bash
@@ -181,8 +182,8 @@ mv kria bioemus
 ```Bash
 cd bioemus
 chmod +x init.sh
-source init.sh
-echo "source ${BIOEMUS_PATH}/init.sh" >> ~/bashrc
+source ./init.sh
+echo "source ${BIOEMUS_PATH}/init.sh" >> ~/.bashrc
 ```
 
 > In case of scripts not running, try converting all .sh to unix format using `dos2unix` (`sudo apt install dos2unix` then `dos2unix *.sh`)
