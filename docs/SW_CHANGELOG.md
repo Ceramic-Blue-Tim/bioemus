@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed 
 -->
 
-## [0.2.0] - 11 Mar 2023
+## [0.2.0] - 11 Mar 2024
 ### Added
 - Select save/send format for spikes/waves from swconfig.json
 - Debug flag for ZeroMQ recv/send timestamping of ext_stim/spikes/waves
