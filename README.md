@@ -59,8 +59,8 @@ This project is licensed under GPLv3.
 
 "**BiœmuS: A new tool for neurological disorders studies through real-time emulation and hybridization using biomimetic Spiking Neural Network**"
 
-Romain Beaubois, Jérémy Cheslet, Tomoya Duenki, Farad Khoyratee, Pascal Branchereau, Yoshiho Ikeuchi, Timothée Lévi
+Romain Beaubois, Jérémy Cheslet, Tomoya Duenki, Giuseppe De Venuto, Marta Carè, Farad Khoyratee, Michela Chiappalone, Pascal Branchereau, Yoshiho Ikeuchi, Timothée Levi 
 
-bioRxiv 2023.09.05.556241
+Nature Communications - 20/06/2024.5142
 
-doi: https://doi.org/10.1101/2023.09.05.556241
+doi: https://doi.org/10.1038/s41467-024-48905-x
